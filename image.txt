@@ -1,0 +1,4 @@
+<img src="filename.gif" height="64"
+width="90" alt="Description"">
+
+<a href="http://www.google.com"> Google</a>
